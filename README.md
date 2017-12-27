@@ -1,6 +1,7 @@
 # myheartbeat
-  This is the final project example for a signal and system intern class
-  Let's pass the final exam together!!!
+  This is the final project example for a signal and system intern class.
+  
+  *Let's pass the final exam together!!!*
   
   
   **Do not use it as a final project . It is just  an example. Please modify or add new features.**
