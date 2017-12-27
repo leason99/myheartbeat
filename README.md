@@ -4,10 +4,8 @@
   *Let's pass the final exam together!!!*
   
 ## Rule
-  **Do not use it as a final project . It is just  an example. Please modify or add new features.**
-  
-  
-  **Please press Star for me if you like it!**
++ **Do not use it as a final project . It is just  an example. Please modify or add new features.**
++ **Please press Star for me if you like it!**
   
   
   **Thank you.**
