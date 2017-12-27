@@ -1,6 +1,5 @@
 import sys
 import numpy as np
-from scipy import signal
 import matplotlib.pyplot as plt
 import threading
 import copy
@@ -8,7 +7,6 @@ import sys, serial
 from time import sleep
 from collections import deque
 import time 
-from scipy.signal import butter, lfilter
 import random
 
 class AnalogData:
