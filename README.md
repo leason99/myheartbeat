@@ -12,7 +12,7 @@
 ![](https://github.com/leason99/myheartbeat/blob/master/1.png)
 
 
-### Note 
+## Note 
   If you want to use this project.You must have to change your serial port in the **matplotheartbeat.py** script
   ![](https://github.com/leason99/myheartbeat/blob/master/2.png)
 
