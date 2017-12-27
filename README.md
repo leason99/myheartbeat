@@ -6,7 +6,9 @@
 ## Rule
   **Do not use it as a final project . It is just  an example. Please modify or add new features.**
   
-  **Please press Star for me if you like it! **
+  
+  **Please press Star for me if you like it!**
+  
   
   **Thank you.**
   
