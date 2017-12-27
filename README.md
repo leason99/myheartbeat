@@ -20,3 +20,4 @@
 ### need package 
 + matplotlib
 + numpy
++ serial
